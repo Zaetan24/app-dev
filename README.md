@@ -1,2 +1,1 @@
-# app-dev
-My first repository
+Information for my favorite movies
